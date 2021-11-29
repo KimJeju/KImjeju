@@ -1,5 +1,7 @@
-### Hi there 👋
+### Hello World! 👋
 
+Hello, I'm Kim Gunhwi.
+I study C language and develop games.🕹
 <!--
 **KimJeju/Kimjeju** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
