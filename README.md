@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&text=🎮Kunhwi_kim&fontSize=45&section=header)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&text=🎮Develop&fontSize=45&section=header)
 
 ### Hello World! 👋
 
