@@ -1,3 +1,5 @@
+![header](https://capsule-render.vercel.app/api?type=waving&color=margenta&height=100&text=🎮KUNHWI KIM&fontSize=45&section=header)
+
 ### Hello World! 👋
 
 Hello, I'm Kim Gunhwi.
