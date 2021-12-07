@@ -1,12 +1,13 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&text=🎮Develop&fontSize=45&section=header)
 
-### Hello World! 👋
+### Hello World! 🌎
 
-🌎 Hello, World! I'm Kim kunhwi.
-✍🏻 I study C language and develop games.🕹
+Hello, I'm Kunhwi Kim, a student studying programming from south korea in Jeju. 
+<br>
+<br>
+• 📖 I'm currently learning Game development and C++ <br>
+• 🌱 I love Weight training, reading and playing Games!
 
-· My hobbies are playing games and looking at the scenery. <br>
-· I want to be a developer who makes influential and innovative games like PUBG.
 
 < MY SKILLS >
 <br> 
