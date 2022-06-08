@@ -11,8 +11,8 @@ Hello, I'm Kunhwi Kim, a student studying programming from south korea in Jeju.
 <br>
 • 📖 I'm currently learning Back-end, Game development and C#,java <br>
 • 🌱 I love Weight training, reading and playing Games!
-  
-|Algorithm_Level|[<img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=overrainbow">](https://solved.ac/profile/overrainbow)|
+ 
+[<img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=overrainbow">](https://solved.ac/profile/overrainbow)
 =============================================
   
 </div>  
