@@ -12,10 +12,10 @@ Hello, I'm Kunhwi Kim, a student studying programming from south korea in Jeju.
 • 📖 I'm currently learning Back-end Programming, and java,BackEnd <br>
 • 🌱 I love Weight training, reading and playing Games!
   
-    <div align- "center">
-    PortFolio = https://kunhwi-devfolio.netlify.app/
-  </div>
-[<img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=overrainbow">](https://solved.ac/profile/overrainbow)
+  <a href="https://kunhwi-devfolio.netlify.app/">
+  <img src="https://user-images.githubusercontent.com/80661467/188114506-9266af57-0df0-403c-b559-4bc3a3c689ca.jpg" width="100" height="50"/>
+  </a>
+
 =============================================
   
 </div>  
