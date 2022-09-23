@@ -35,6 +35,9 @@ Hello, I'm Kunhwi Kim, a student studying programming from south korea in Jeju.
 <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
 <img src="https://activity-graph.herokuapp.com/graph?username=Kimjeju&theme=react-dark&bg_color=20232a&hide_border=true&line=AB90E8&color=C691E9C9" width=98%/>
 </a>
+
+
+
  
 </div>  
 
