@@ -32,8 +32,7 @@ Hello, I'm Kunhwi Kim, a student studying programming from south korea in Jeju.
 <a href="https://github.com/denvercoder1/github-readme-streak-stats">
   <img src="http://github-readme-streak-stats.herokuapp.com?user=Kimjeju&theme=react&ring=C691E94D&fire=C691E9&sideNums=C691E9&currStreakNum=C691E9&sideLabels=FFFFFF&currStreakLabel=FFFFFF&dates=E3E3E3A8&hide_border=true" width=49.2% />
 </a>
-<a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-</a>
+
 
 
 
