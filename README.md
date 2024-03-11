@@ -9,8 +9,7 @@
 Hello, I'm Kunhwi Kim, a student studying programming from south korea in Jeju. 
 <br>
 <br>
-• 📖 I'm currently learning Back-end Programming, and java,BackEnd <br>
-• 🌱 I love Weight training, reading and playing Games!
+• 📖 I'm currently learning Back-end Programming, and C#, ,BackEnd <br>
   
   <a href="https://kunhwi-devfolio.netlify.app/">
   <img src="https://user-images.githubusercontent.com/80661467/188114506-9266af57-0df0-403c-b559-4bc3a3c689ca.jpg" width="100" height="50"/>
