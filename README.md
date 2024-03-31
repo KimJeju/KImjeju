@@ -5,8 +5,6 @@
 </div>
 
 <div align = "center">
-
-Hello, I'm Kunhwi Kim 
 <br>
 <br>
   <a href="https://kunhwi-devfolio.netlify.app/">
